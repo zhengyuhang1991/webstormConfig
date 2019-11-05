@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="-3852826c:16bf44ddf44:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>
