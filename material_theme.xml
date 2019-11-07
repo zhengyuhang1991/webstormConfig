@@ -4,9 +4,10 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
     <option name="treeFontSize" value="14" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="tabFontSize" value="14" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-3852826c:16bf44ddf44:-8000" />
     <option name="version" value="3.10.0" />
   </component>
