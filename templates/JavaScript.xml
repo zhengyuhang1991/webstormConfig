@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="file" value="/**&#10; * @author: Zheng YuHang&#10; * @Description: &#10; * @createDate: $date$ $time$&#10;*/&#10;" description="file header" toReformat="true" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
