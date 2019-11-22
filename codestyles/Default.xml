@@ -11,6 +11,7 @@
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
   </JSCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
