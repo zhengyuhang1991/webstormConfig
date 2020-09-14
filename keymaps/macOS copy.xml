@@ -1,0 +1,28 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="BraceOrQuoteOut" />
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorEscape" />
+  <action id="EditorIndentSelection" />
+  <action id="EditorTab" />
+  <action id="EditorUnindentSelection" />
+  <action id="ExpandLiveTemplateByTab" />
+  <action id="FocusEditor" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="tab" />
+  </action>
+  <action id="NavBar-cancel" />
+  <action id="NextParameter" />
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="PopupMenu-cancel" />
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
+  <action id="PreviousTemplateVariable" />
+  <action id="SearchEverywhere.CompleteCommand" />
+  <action id="SearchEverywhere.NextTab" />
+  <action id="SearchEverywhere.PrevTab" />
+  <action id="SelectVirtualTemplateElement" />
+  <action id="Terminal.SwitchFocusToEditor" />
+</keymap>
