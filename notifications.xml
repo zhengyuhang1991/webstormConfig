@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Angular CLI" displayType="STICKY_BALLOON" shouldLog="false" playSound="true" />
+  </component>
+</application>
